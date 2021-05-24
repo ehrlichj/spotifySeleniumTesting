@@ -6,8 +6,8 @@ Next add a .env file to the repository and add the following variables:
 
  //.env file
  
- USERNAME=your_spotify_username
- PASSWORD=your_spotify_password
+ USERNAME=your_spotify_username  
+ PASSWORD=your_spotify_password  
  CHROME_PATH=/path/to/chromedriver
  
  
